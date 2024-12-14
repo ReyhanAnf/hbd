@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }, 200);
         audio.play();
         setTimeout(() => {
-          window.location.href = "file:///D:/Personal/coding/explore/hbd/Birthday-Cake-Blow/hbd/kado.html";
+          window.location.href = "https://reyhananf.github.io/hbd/kado.html";
         }, 28000);
       }
     }
