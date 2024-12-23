@@ -80,9 +80,13 @@ document.addEventListener("DOMContentLoaded", function () {
           endlessConfetti(); // Start the endless confetti
         }, 200);
         audio.play();
+        audio.playbackRate = 2;
+        document.querySelector('.tambahan').innerHTML = 'YEAYY🥳🥳';
         setTimeout(() => {
           window.location.href = "https://reyhananf.github.io/hbd/kado.html";
-        }, 28000);
+        }, 14000);
+
+        
       }
     }
   }
